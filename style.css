@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-image: url('./bkGif.gif');
+    background-image: url('./resources/bkGif.gif');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -23,11 +23,8 @@ body{
 }
 
 #clock-container img{
-    
     width:70px;
-    
     justify-content: center;
     top: 0;
-    
 }
 
